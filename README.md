@@ -1,17 +1,28 @@
-# Chulapa 101
+# Colocate² Unconference
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+### February 26-28, 2025 | Stanford University Library
 
-Contains basic configuration to get you a site with:
+_Colocate² = Colocating to build tools for colocating maps_
 
-- [Sample posts](./_posts/) and [paginated blog index](./blog/index.html).
-- [Sample collection](./_cheatsheet/) with Markdown and kramdown cheatsheets and [collection index](./_pages/cheatsheet.md).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample [`_config`](_config.yml) with minimal configuration.
-- Sample [`algolia-search.yml`](algolia-search.yml) for using Algolia+GitHub Actions. More guidance in the top of the file.
-- Sample files for extending the theme with your [own scripts](./_includes/custom/) and [css](./assets/css/).
+The Colocate² Unconference aims to bring together experts and stakeholders from various fields to discuss, share knowledge, and collaborate on building tools for colocating maps.
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+## Agenda Permalink
+
+You can find the full agenda with detailed descriptions of each session [here](link_to_agenda_permalink).
+
+## Repo on Github
+
+This event is managed using this GitHub repository. Please feel free to add Issues or submit Pull Requests with edits or suggested changes.
+
+## How to Participate
+
+- If you are interested in participating or presenting, please contact us through the GitHub repository issue tracker.
+- To pitch a session idea, create an issue with a brief description of your proposal and wait for feedback from the organizers.
+
+## Social Events
+
+A social event will be held on Wednesday and Thursday evening during the unconference. More information about the events will be announced separately.
+
+## Accessibility
+
+The David Rumsey Map Center is accessed via stairwell or elevator. If you have any specific accessibility needs, please contact us in advance so we can make necessary arrangements.
