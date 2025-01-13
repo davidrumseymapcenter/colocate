@@ -1,24 +1,126 @@
 ---
 layout: default
-title: Chulapa on remote
-header_type: hero
-subtitle: Starter pack
+title: Colocate² Unconference
+header_type: base
+subtitle: February 26-28, 2025 – Stanford University Libraries
+show_toc: true
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+**Colocate²** = Colocating to build tools for colocating maps
+{: .alert .alert-custom}
 
-Contains basic configuration to get you a site with:
+**Event Dates:** February 26-28, 2025 \
+**Location:** Stanford University / David Rumsey Map Center (DRMC) \
+**Event Format:** 3-day Unconference
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+## Agenda
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+### Wednesday, February 26
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+Morning Location: [David Rumsey Map Center](https://drmc.stanford.edu)
+{: .alert .alert-light}
+
+**9:00 AM - 10:00 AM:** Welcome, Introduction & History
+
+- Introduction by Stanford host team
+- Overview of the unconference structure, goals, and key themes: IIIF, AllMaps, GeoBlacklight, sustainability, and R&D.
+- Overview of the history of georeferencing scanned maps
+- Introductions - 1-2 min from each person presenting their goals, bio, expertise, etc.
+
+**9:30 AM - 10:30 AM:** Overview of Current Tools & Developments in Web Mapping (lightning talks)
+
+- _AllMaps Team:_ Highlighting IIIF-native georeferencing capabilities and recent developments.
+- _IIIF Maps:_ Overview of features, integrations, and future roadmaps.
+- _GeoBlacklight Contributors:_ Presenting new developments in GeoBlacklight and its integration with IIIF maps.
+
+**10:30 AM - 11:00 AM: Morning Refreshment Break**
+
+**11:00 AM - 12:30 PM:** Unconference Session Pitches & Voting
+
+Participants pitch session ideas, followed by group voting to determine the key breakout sessions for the unconference slots over the next three days.
+
+**12:30 PM - 2:00 PM: Lunch Break**
+
+Afternoon Location: [Hohbach Hall / TBD](#)
+{: .alert .alert-light}
+
+**2:00 PM - 3:15 PM:** Unconference Session 1
+
+Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
+
+**3:15 PM - 3:45 PM: Afternoon Refreshment Break**
+
+**3:45 PM - 5:00 PM:** Unconference Session 2
+
+Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
+
+**Evening**
+
+Social Event TBD
+
+### Thrusday, February 27
+
+Location: [David Rumsey Map Center](https://drmc.stanford.edu)
+{: .alert .alert-light}
+
+**9:00 AM - 10:30 AM:** What Can I Do with IIIF & Maps?
+
+Discussion on the use cases of IIIF and maps for institutions and researchers.
+
+- _AllMaps_: Applying IIIF-native tools for georeferencing.
+- _GeoBlacklight_: Expanding collections and using map data in research.
+
+**10:30 AM - 11:00 AM: Morning Refreshment Break**
+
+**11:00 AM - 12:30 PM:** Unconference Session 3
+
+Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
+
+**12:30 PM - 2:00 PM: Lunch Break**
+
+**2:00 PM - 3:15 PM:** Sustainability & Resourcing Workshop
+
+- Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
+- How do we ensure long-term support for these projects?
+- Identifying funding sources and creating a collaborative, sustainable ecosystem.
+
+**3:15 PM - 3:45 PM: Afternoon Refreshment Break**
+
+**3:45 PM - 5:00 PM:** Unconference Session 4
+
+Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
+
+**Evening**
+
+Social Event TBD
+
+### Friday, February 28
+
+Location: [David Rumsey Map Center](https://drmc.stanford.edu)
+{: .alert .alert-light}
+
+**9:00 AM - 10:30 AM:** AI & Web Mapping: Exploring New Technologies
+
+- Investigate how artificial intelligence (AI) can enhance map georeferencing and data extraction workflows.
+- Discuss potential research and development (R&D) avenues involving AI and machine learning with IIIF.
+
+**10:30 AM - 11:00 AM: Morning Refreshment Break**
+
+**11:00 AM - 12:30 PM:** Unconference Session 5
+
+Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
+
+**12:30 PM - 2:00 PM: Lunch Break**
+
+**2:00 PM - 3:15 PM:** Next Steps: Funding, Outreach & Collaboration
+
+- Finalize action items for future collaborations, including expanding IIIF-based georeferencing tools and creating new outreach strategies.
+- _Funding Models_: Identifying sustainable funding for AllMaps and related projects.
+- _Outreach:_ Discuss outreach and training strategies to promote adoption of IIIF maps.
+- _R&D Roadmaps:_ Define specific research and development goals for 2025 and beyond.
+
+**3:15 PM - 3:45 PM: Afternoon Refreshment Break**
+
+**3:45 PM - 5:00 PM:** Closing Session: Summary & Final Reflections
+
+Open floor for final reflections, task assignments for follow-up, and next steps for future collaboration and roadmap implementation
