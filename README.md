@@ -8,16 +8,11 @@ The Colocate² Unconference aims to bring together experts and stakeholders from
 
 ## Agenda Permalink
 
-You can find the full agenda with detailed descriptions of each session [here](link_to_agenda_permalink).
+You can find the full agenda with detailed descriptions of each session [here](https://davidrumseymapcenter.github.io/colocate/).
 
 ## Repo on Github
 
 This event is managed using this GitHub repository. Please feel free to add Issues or submit Pull Requests with edits or suggested changes.
-
-## How to Participate
-
-- If you are interested in participating or presenting, please contact us through the GitHub repository issue tracker.
-- To pitch a session idea, create an issue with a brief description of your proposal and wait for feedback from the organizers.
 
 ## Social Events
 
