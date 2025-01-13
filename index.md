@@ -23,13 +23,13 @@ Morning Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 **9:00 AM - 10:00 AM:** Welcome, Introduction & History
 
 - Introduction by Stanford host team
-- Overview of the unconference structure, goals, and key themes: IIIF, AllMaps, GeoBlacklight, sustainability, and R&D.
+- Overview of the unconference structure, goals, and key themes: IIIF, Allmaps, GeoBlacklight, sustainability, and R&D.
 - Overview of the history of georeferencing scanned maps
 - Introductions - 1-2 min from each person presenting their goals, bio, expertise, etc.
 
 **9:30 AM - 10:30 AM:** Overview of Current Tools & Developments in Web Mapping (lightning talks)
 
-- _AllMaps Team:_ Highlighting IIIF-native georeferencing capabilities and recent developments.
+- _Allmaps Team:_ Highlighting IIIF-native georeferencing capabilities and recent developments.
 - _IIIF Maps:_ Overview of features, integrations, and future roadmaps.
 - _GeoBlacklight Contributors:_ Presenting new developments in GeoBlacklight and its integration with IIIF maps.
 
@@ -67,7 +67,7 @@ Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 
 Discussion on the use cases of IIIF and maps for institutions and researchers.
 
-- _AllMaps_: Applying IIIF-native tools for georeferencing.
+- _Allmaps_: Applying IIIF-native tools for georeferencing.
 - _GeoBlacklight_: Expanding collections and using map data in research.
 
 **10:30 AM - 11:00 AM: Morning Refreshment Break**
@@ -80,7 +80,7 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 **2:00 PM - 3:15 PM:** Sustainability & Resourcing Workshop
 
-- Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
+- Explore sustainability options for IIIF-based tools and platforms like Allmaps and GeoBlacklight.
 - How do we ensure long-term support for these projects?
 - Identifying funding sources and creating a collaborative, sustainable ecosystem.
 
@@ -115,7 +115,7 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 **2:00 PM - 3:15 PM:** Next Steps: Funding, Outreach & Collaboration
 
 - Finalize action items for future collaborations, including expanding IIIF-based georeferencing tools and creating new outreach strategies.
-- _Funding Models_: Identifying sustainable funding for AllMaps and related projects.
+- _Funding Models_: Identifying sustainable funding for Allmaps and related projects.
 - _Outreach:_ Discuss outreach and training strategies to promote adoption of IIIF maps.
 - _R&D Roadmaps:_ Define specific research and development goals for 2025 and beyond.
 
