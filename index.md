@@ -6,7 +6,7 @@ subtitle: February 26-28, 2025 – Stanford University Libraries
 show_toc: true
 ---
 
-**Colocate²** = Colocating to build tools for colocating maps
+**Colocate²** = Colocating people to build tools for colocating maps
 {: .alert .alert-custom}
 
 **Event Dates:** February 26-28, 2025 \
