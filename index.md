@@ -17,7 +17,7 @@ show_toc: true
 
 ### Wednesday, February 26
 
-Morning Location: [David Rumsey Map Center](https://drmc.stanford.edu)
+Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 {: .alert .alert-light}
 
 **9:00 AM - 10:00 AM:** Welcome, Introduction & History
@@ -40,9 +40,6 @@ Morning Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 Participants pitch session ideas, followed by group voting to determine the key breakout sessions for the unconference slots over the next three days.
 
 **12:30 PM - 2:00 PM: Lunch Break**
-
-Afternoon Location: Hohbach Hall & David Rumsey Map Center
-{: .alert .alert-light}
 
 **2:00 PM - 3:15 PM:** Unconference Session 1
 
@@ -122,8 +119,6 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 **1:00 PM - 2:00 PM: Lunch Break**
 
 **2:00 PM - 3:30 PM:** [Optional] Sustainability & Resourcing Workshop
-
-**3:45 PM - 5:00 PM:** Closing Session: Summary & Final Reflections
 
 - Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
 - How do we ensure long-term support for these projects?
