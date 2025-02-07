@@ -10,7 +10,7 @@ show_toc: true
 {: .alert .alert-custom}
 
 **Event Dates:** February 26-28, 2025 \
-**Location:** Stanford University / David Rumsey Map Center (DRMC) \
+**Location:** Stanford University / [David Rumsey Map Center](https://drmc.stanford.edu) (DRMC) \
 **Event Format:** 3-day Unconference
 
 ## Agenda
@@ -27,21 +27,21 @@ Morning Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 - Overview of the history of georeferencing scanned maps
 - Introductions - 1-2 min from each person presenting their goals, bio, expertise, etc.
 
-**9:30 AM - 10:30 AM:** Overview of Current Tools & Developments in Web Mapping (lightning talks)
+**10:00 AM - 11:00 AM:** Overview of Current Tools & Developments (lightning talks)
 
 - _Allmaps Team:_ Highlighting IIIF-native georeferencing capabilities and recent developments.
 - _IIIF Maps:_ Overview of features, integrations, and future roadmaps.
 - _GeoBlacklight Contributors:_ Presenting new developments in GeoBlacklight and its integration with IIIF maps.
 
-**10:30 AM - 11:00 AM: Morning Refreshment Break**
+**11:00 AM - 11:30 AM: Morning Refreshment Break**
 
-**11:00 AM - 12:30 PM:** Unconference Session Pitches & Voting
+**11:30 AM - 12:30 PM:** Unconference Session Pitches & Voting
 
 Participants pitch session ideas, followed by group voting to determine the key breakout sessions for the unconference slots over the next three days.
 
 **12:30 PM - 2:00 PM: Lunch Break**
 
-Afternoon Location: [Hohbach Hall / TBD](#)
+Afternoon Location: Hohbach Hall & David Rumsey Map Center
 {: .alert .alert-light}
 
 **2:00 PM - 3:15 PM:** Unconference Session 1
@@ -56,14 +56,14 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 **Evening**
 
-Social Event TBD
+**6:00 PM - 7:30 PM:** Dinner @ [Rangoon Ruby](https://rangoonruby.com/)
 
 ### Thursday, February 27
 
 Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 {: .alert .alert-light}
 
-**9:00 AM - 10:30 AM:** What Can I Do with IIIF & Maps?
+**9:00 AM - 10:30 AM:** Increasing Adoption and Participation
 
 Discussion on the use cases of IIIF and maps for institutions and researchers.
 
@@ -78,7 +78,9 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 **12:30 PM - 2:00 PM: Lunch Break**
 
-**2:00 PM - 3:15 PM:** Sustainability & Resourcing Workshop
+**2:00 PM - 3:15 PM:** Unconference Session 4 Sustainability & Resourcing Workshop
+
+Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
 
 - Explore sustainability options for IIIF-based tools and platforms like Allmaps and GeoBlacklight.
 - How do we ensure long-term support for these projects?
@@ -86,13 +88,13 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 **3:15 PM - 3:45 PM: Afternoon Refreshment Break**
 
-**3:45 PM - 5:00 PM:** Unconference Session 4
+**3:45 PM - 5:00 PM:** Unconference Session 5
 
 Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
 
 **Evening**
 
-Social Event TBD
+**6:00 PM - 7:30 PM:** Dinner @ [Pizzeria Delfina](https://www.pizzeriadelfina.com/location/palo-alto/)
 
 ### Friday, February 28
 
@@ -106,21 +108,23 @@ Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 
 **10:30 AM - 11:00 AM: Morning Refreshment Break**
 
-**11:00 AM - 12:30 PM:** Unconference Session 5
-
-Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
-
-**12:30 PM - 2:00 PM: Lunch Break**
-
-**2:00 PM - 3:15 PM:** Next Steps: Funding, Outreach & Collaboration
+**11:00 AM - 12:00 PM:** Next Steps: Funding, Outreach & Collaboration
 
 - Finalize action items for future collaborations, including expanding IIIF-based georeferencing tools and creating new outreach strategies.
 - _Funding Models_: Identifying sustainable funding for Allmaps and related projects.
 - _Outreach:_ Discuss outreach and training strategies to promote adoption of IIIF maps.
 - _R&D Roadmaps:_ Define specific research and development goals for 2025 and beyond.
 
-**3:15 PM - 3:45 PM: Afternoon Refreshment Break**
+**12:00 PM - 1:00 PM:** Closing Session: Summary & Final Reflections
+
+Open floor for final reflections, task assignments for follow-up, and next steps for future collaboration and roadmap implementation.
+
+**1:00 PM - 2:00 PM: Lunch Break**
+
+**2:00 PM - 3:30 PM:** [Optional] Sustainability & Resourcing Workshop
 
 **3:45 PM - 5:00 PM:** Closing Session: Summary & Final Reflections
 
-Open floor for final reflections, task assignments for follow-up, and next steps for future collaboration and roadmap implementation
+- Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
+- How do we ensure long-term support for these projects?
+- Identifying funding sources and creating a collaborative, sustainable ecosystem.
