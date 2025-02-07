@@ -91,7 +91,7 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 **Evening**
 
-**6:00 PM - 7:30 PM:** Dinner @ [Pizzeria Delfina](https://www.pizzeriadelfina.com/location/palo-alto/)
+**6:00 PM - 9:00 PM:** Dinner @ [Pizzeria Delfina](https://www.pizzeriadelfina.com/location/palo-alto/)
 
 ### Friday, February 28
 
