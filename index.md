@@ -58,7 +58,7 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 Social Event TBD
 
-### Thrusday, February 27
+### Thursday, February 27
 
 Location: [David Rumsey Map Center](https://drmc.stanford.edu)
 {: .alert .alert-light}
