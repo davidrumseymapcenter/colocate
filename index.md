@@ -130,9 +130,9 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 
 ### Notes & Text Sharing: 
 
-[**Shared Running Notes Document**](https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing) https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing - To be used by attendees in any sessions. Please be sure to use Headings to indicate the sessions you are taking notes for.  
+[**Shared Running Notes Document**](https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing) (Google Docs) - To be used by attendees in any sessions. Please be sure to use headings to indicate the sessions you are taking notes for.  
 
-[**etherpad.wikimedia.org/p/colocate2**](https://etherpad.wikimedia.org/p/colocate2) https://etherpad.wikimedia.org/p/colocate2 - An ephemeral text document where we can share URLs and other cut-&-paste text.  
+[**Etherpad**](https://etherpad.wikimedia.org/p/colocate2) - An ephemeral text document where we can share URLs and other cut-&-paste text.  
 
 ## Contacts and Communications:
 
@@ -140,13 +140,13 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 
 Stace Maples - 214-641-0920 (text or voice)
 
-[**Attendees Contact List**](https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing) https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing - Please embellish and correct, as needed.  
+[**Attendees Contact List**](https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing) - Please embellish and correct, as needed.  
 
 ### Slack for participants:
 
-Join IIIF Slack: https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg   
+Join IIIF Slack: [https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg](https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg)      
 
-IIIF #colocate channel for all participants:  https://iiif.slack.com/archives/C08EHLA1CMQ  
+IIIF #colocate channel for all participants: [https://iiif.slack.com/archives/C08EHLA1CMQ](https://iiif.slack.com/archives/C08EHLA1CMQ)    
 
 ## Transportation
 
