@@ -10,7 +10,7 @@ show_toc: true
 {: .alert .alert-custom}
 
 **Event Dates:** February 26-28, 2025 \
-**Location:** Stanford University / [David Rumsey Map Center](https://drmc.stanford.edu) (DRMC) \
+**Location:** Stanford University / [David Rumsey Map Center](https://drmc.stanford.edu) ([Google Map Link](https://maps.app.goo.gl/YNQZAo7xu9iyApAg9)) \
 **Event Format:** 3-day Unconference
 
 ## Agenda
@@ -53,7 +53,8 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 **Evening**
 
-**6:00 PM - 7:30 PM:** Dinner @ [Rangoon Ruby](https://rangoonruby.com/)
+**6:00 PM - 7:30 PM:** Dinner @ [Rangoon Ruby (website)](https://rangoonruby.com)  
+[Google Maps Link](https://maps.app.goo.gl/BsPJLwAcATgitrRt6)
 
 ### Thursday, February 27
 
@@ -91,7 +92,8 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 **Evening**
 
-**6:00 PM - 9:00 PM:** Dinner @ [Pizzeria Delfina](https://www.pizzeriadelfina.com/location/palo-alto/)
+**6:00 PM - 9:00 PM:** Dinner @ [Pizzeria Delfina (website)](https://www.pizzeriadelfina.com/location/palo-alto/)  
+[Google Maps Link](https://maps.app.goo.gl/VmWcDc4pvZnjoAKU9)
 
 ### Friday, February 28
 
@@ -123,3 +125,30 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 - Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
 - How do we ensure long-term support for these projects?
 - Identifying funding sources and creating a collaborative, sustainable ecosystem.
+
+## Documents
+
+### Notes & Text Sharing: 
+
+[**Shared Running Notes Document**](https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing) (Google Docs) - To be used by attendees in any sessions. Please be sure to use headings to indicate the sessions you are taking notes for.  
+
+[**Etherpad**](https://etherpad.wikimedia.org/p/colocate2) - An ephemeral text document where we can share URLs and other cut-&-paste text.  
+
+## Contacts and Communications:
+
+### Emergencies:
+
+Stace Maples - 214-641-0920 (text or voice)
+
+[**Attendees Contact List**](https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing) - Please embellish and correct, as needed.  
+
+### Slack for participants:
+
+Join IIIF Slack: [https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg](https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg)      
+
+IIIF #colocate channel for all participants: [https://iiif.slack.com/archives/C08EHLA1CMQ](https://iiif.slack.com/archives/C08EHLA1CMQ)    
+
+## Transportation
+
+[Stanford Marguerite Shuttle](https://transportation.stanford.edu/getting-stanford/marguerite/shuttle-lines-and-schedules): 
+- [P Shuttle](https://transportation.stanford.edu/marguerite/p) - Runs between the Palo Alto Caltrain Station (adjacent to the parking lot, on the circle) to the Stanford University Bus Stop, at the top of the Palm Drive Oval. 
