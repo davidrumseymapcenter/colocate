@@ -123,3 +123,25 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 - Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
 - How do we ensure long-term support for these projects?
 - Identifying funding sources and creating a collaborative, sustainable ecosystem.
+
+## Documents
+
+### Notes & Text Sharing: 
+
+[**Shared Running Notes Document**](https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing) https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing - To be used by attendees in any sessions. Please be sure to use Headings to indicate the sessions you are taking notes for.  
+
+[**etherpad.wikimedia.org/p/colocate2**](https://etherpad.wikimedia.org/p/colocate2) https://etherpad.wikimedia.org/p/colocate2 - An ephemeral text document where we can share URLs and other cut-&-paste text.  
+
+## Contacts and Communications:
+
+### Emergencies:
+
+Stace Maples - 214-641-0920 (text or voice)
+
+[**Attendees Contact List**](https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing) https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing - Please embellish and correct, as needed.  
+
+### Slack for participants:
+
+Join IIIF Slack: https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg   
+
+IIIF #colocate channel for all participants:  https://iiif.slack.com/archives/C08EHLA1CMQ  
