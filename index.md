@@ -10,14 +10,14 @@ show_toc: true
 {: .alert .alert-custom}
 
 **Event Dates:** February 26-28, 2025 \
-**Location:** Stanford University / [David Rumsey Map Center](https://drmc.stanford.edu) ([Google Map Link](https://maps.app.goo.gl/YNQZAo7xu9iyApAg9)) \
+**Location:** Stanford University \| [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"} \| [Google Map Link](https://maps.app.goo.gl/YNQZAo7xu9iyApAg9){:target="\_blank"}  
 **Event Format:** 3-day Unconference
 
 ## Agenda
 
 ### Wednesday, February 26
 
-Location: [David Rumsey Map Center](https://drmc.stanford.edu)
+Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"}
 {: .alert .alert-light}
 
 **9:00 AM - 10:00 AM:** Welcome, Introduction & History
@@ -51,14 +51,11 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
 
-**Evening**
-
-**6:00 PM - 7:30 PM:** Dinner @ [Rangoon Ruby (website)](https://rangoonruby.com)  
-[Google Maps Link](https://maps.app.goo.gl/BsPJLwAcATgitrRt6)
+**6:00 PM - 7:30 PM:** Dinner @ [Rangoon Ruby](https://rangoonruby.com){:target="\_blank"} \| [Google Maps Link](https://maps.app.goo.gl/BsPJLwAcATgitrRt6){:target="\_blank"}
 
 ### Thursday, February 27
 
-Location: [David Rumsey Map Center](https://drmc.stanford.edu)
+Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"}
 {: .alert .alert-light}
 
 **9:00 AM - 10:30 AM:** Increasing Adoption and Participation
@@ -90,14 +87,11 @@ Topic(s) to be determined based on session pitches. Sessions may end with 15 min
 
 Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
 
-**Evening**
-
-**6:00 PM - 9:00 PM:** Dinner @ [Pizzeria Delfina (website)](https://www.pizzeriadelfina.com/location/palo-alto/)  
-[Google Maps Link](https://maps.app.goo.gl/VmWcDc4pvZnjoAKU9)
+**6:00 PM - 9:00 PM:** Dinner @ [Pizzeria Delfina](https://www.pizzeriadelfina.com/location/palo-alto/){:target="\_blank"} \| [Google Maps Link](https://maps.app.goo.gl/VmWcDc4pvZnjoAKU9){:target="\_blank"}
 
 ### Friday, February 28
 
-Location: [David Rumsey Map Center](https://drmc.stanford.edu)
+Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"}
 {: .alert .alert-light}
 
 **9:00 AM - 10:30 AM:** AI & Web Mapping: Exploring New Technologies
@@ -128,27 +122,29 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 
 ## Documents
 
-### Notes & Text Sharing: 
+### Notes & Text Sharing
 
-[**Shared Running Notes Document**](https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing) (Google Docs) - To be used by attendees in any sessions. Please be sure to use headings to indicate the sessions you are taking notes for.  
+[**Shared Running Notes Document**](https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing){:target="\_blank"} (Google Doc) - To be used by attendees in any sessions. Please be sure to use headings to indicate the sessions you are taking notes for.
 
-[**Etherpad**](https://etherpad.wikimedia.org/p/colocate2) - An ephemeral text document where we can share URLs and other cut-&-paste text.  
+[**Etherpad**](https://etherpad.wikimedia.org/p/colocate2){:target="\_blank"} - An ephemeral text document where we can share URLs and other cut-&-paste text.
 
-## Contacts and Communications:
+[**Attendees Contact List**](https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing){:target="\_blank"} - Please embellish and correct, as needed.
 
-### Emergencies:
+## Contacts and Communications
 
-Stace Maples - 214-641-0920 (text or voice)
+### Emergencies
 
-[**Attendees Contact List**](https://docs.google.com/spreadsheets/d/1ed9fuWgjZ3djieX5lpjPfYdd1cXdr_MIO2K2eYaxMI0/edit?usp=sharing) - Please embellish and correct, as needed.  
+Stace Maples - 214-641-0920 (text or voice) \
+Evan Thornberry - 650-374-7804 (text or voice)
 
-### Slack for participants:
+### Slack for participants
 
-Join IIIF Slack: [https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg](https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg)      
+Join IIIF Slack: [https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg](https://join.slack.com/t/iiif/shared_invite/zt-30dy9hkvm-P6Lpg4xrpzPbE4H0Wl2rFg){:target="\_blank"}
 
-IIIF #colocate channel for all participants: [https://iiif.slack.com/archives/C08EHLA1CMQ](https://iiif.slack.com/archives/C08EHLA1CMQ)    
+IIIF #colocate channel for all participants: [https://iiif.slack.com/archives/C08EHLA1CMQ](https://iiif.slack.com/archives/C08EHLA1CMQ){:target="\_blank"}
 
 ## Transportation
 
-[Stanford Marguerite Shuttle](https://transportation.stanford.edu/getting-stanford/marguerite/shuttle-lines-and-schedules): 
-- [P Shuttle](https://transportation.stanford.edu/marguerite/p) - Runs between the Palo Alto Caltrain Station (adjacent to the parking lot, on the circle) to the Stanford University Bus Stop, at the top of the Palm Drive Oval. 
+Downtown Palo Alto and Stanford's Campus are about 1 mile apart and connected by Palm Drive. You can either walk or take the [FREE Marguerite Shuttle](https://transportation.stanford.edu/getting-stanford/marguerite/shuttle-lines-and-schedules){:target="\_blank"}.
+
+The Marguerite's [P Shuttle](https://transportation.stanford.edu/marguerite/p){:target="\_blank"} runs between the Palo Alto Caltrain Station (adjacent to the parking lot, on the circle) to the Stanford University Bus Stop ([Google Maps Link](https://maps.app.goo.gl/fqmoPHPCxStAVGG38){:target="\_blank"}), at the top of the Palm Drive Oval.
