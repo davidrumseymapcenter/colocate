@@ -30,9 +30,13 @@ Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"
 
 **10:00 AM - 11:00 AM:** Overview of Current Tools & Developments (lightning talks)
 
-- _Allmaps Team:_ Highlighting IIIF-native georeferencing capabilities and recent developments.
-- _IIIF Maps:_ Overview of features, integrations, and future roadmaps.
-- _GeoBlacklight Contributors:_ Presenting new developments in GeoBlacklight and its integration with IIIF maps.
+- [_A brief history of maps on the internet_](https://slides.com/staceymaples/iiif-maps-showcase) \
+- [_GeoBlacklight community overview_](https://geoblacklight.org/GBL-community.slides.html) \
+- [_Recent GeoBlacklight development work_](https://docs.google.com/presentation/u/0/d/1HDzOLhek2wIRavmJy_TkE_RoTAbRZmjSwEn1mC2Xdb8/edit) \
+- [_Blacklight Allmaps_](https://docs.google.com/presentation/d/13_SqSZ7lOADsjPZZmOsokFcoT7ytT9VRn2wIPqlU3Xo/edit?usp=sharing) \
+- [_Oldinsurancemaps.net: Creating iiif georeference annotations_](https://tiny.cc/colocate2025-ac) \
+- _Introduction to Allmaps_ \
+- [_Open Metadata_](https://docs.google.com/presentation/d/13iBqQGwejLIMRhbFBt6ZVawb_Kd9h23OiufstAt5jzA/edit#slide=id.g33a3d7789c9_0_40) \
 
 **11:00 AM - 11:30 AM: Morning Refreshment Break**
 
