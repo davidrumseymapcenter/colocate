@@ -2,7 +2,7 @@
 layout: default
 title: Colocate² Unconference
 header_type: base
-subtitle: February 26-28, 2025 – Stanford University Libraries
+subtitle: February 26-28, 2025 – Stanford University Libraries – bit.ly/colocate2
 show_toc: true
 ---
 
@@ -12,6 +12,7 @@ show_toc: true
 **Event Dates:** February 26-28, 2025 \
 **Location:** Stanford University \| [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"} \| [Google Map Link](https://maps.app.goo.gl/YNQZAo7xu9iyApAg9){:target="\_blank"}  
 **Event Format:** 3-day Unconference
+**Google Drive:** [bit.ly/colocate2-drive](https://drive.google.com/drive/folders/1K-8NNRl76waz_EEaEePZp_W7f-1GckLf){:target="\_blank"}
 
 ## Agenda
 
@@ -123,6 +124,8 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 ## Documents
 
 ### Notes & Text Sharing
+
+**Google Drive:** [bit.ly/colocate2-drive](https://drive.google.com/drive/folders/1K-8NNRl76waz_EEaEePZp_W7f-1GckLf){:target="\_blank"}
 
 [**Shared Running Notes Document**](https://docs.google.com/document/d/1N2JF2hx4kJOXufKNm9kig6kUr-64se4KTn0CzjpG5WU/edit?usp=sharing){:target="\_blank"} (Google Doc) - To be used by attendees in any sessions. Please be sure to use headings to indicate the sessions you are taking notes for.
 
