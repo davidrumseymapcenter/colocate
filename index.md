@@ -12,7 +12,7 @@ show_toc: true
 **Event Dates:** February 26-28, 2025 \
 **Location:** Stanford University \| [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"} \| [Google Map Link](https://maps.app.goo.gl/YNQZAo7xu9iyApAg9){:target="\_blank"}  
 **Event Format:** 3-day Unconference \
-**Google Drive:** [bit.ly/colocate2-drive](https://drive.google.com/drive/folders/1K-8NNRl76waz_EEaEePZp_W7f-1GckLf){:target="\_blank"}git a
+**Google Drive:** [bit.ly/colocate2-drive](https://drive.google.com/drive/folders/1K-8NNRl76waz_EEaEePZp_W7f-1GckLf){:target="\_blank"}
 
 ## Agenda
 
