@@ -25,13 +25,12 @@ Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"
 
 - Introduction by Stanford host team
 - Overview of the unconference structure, goals, and key themes: IIIF, Allmaps, GeoBlacklight, sustainability, and R&D.
-- Overview of the history of georeferencing scanned maps
 - Introductions - 1-2 min from each person presenting their goals, bio, expertise, etc.
 
 **10:00 AM - 11:00 AM:** Overview of Current Tools & Developments (lightning talks)
 
-- _Allmaps Team:_ Highlighting IIIF-native georeferencing capabilities and recent developments.
 - _IIIF Maps:_ Overview of features, integrations, and future roadmaps.
+- _Allmaps Team:_ Highlighting IIIF-native georeferencing capabilities and recent developments.  
 - _GeoBlacklight Contributors:_ Presenting new developments in GeoBlacklight and its integration with IIIF maps.
 
 **11:00 AM - 11:30 AM: Morning Refreshment Break**
