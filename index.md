@@ -101,7 +101,8 @@ VOTES: +++++++++ (8)
 Collaborative strategies for publishing metadata with an explicit license (e.g., CC0) and developing tools for computational access to metadata.
 * **Georeferencing Project Management Tooling (Stace)**
 VOTES: ++++++ (6)
-Developing a collaborative task manager with role-based task assignment, queue management, and gamified feedback.
+Developing a collaborative task manager with role-based task assignment, queue management, and gamified feedback.  
+
 **6:00 PM - 9:00 PM:** Dinner @ [Pizzeria Delfina](https://www.pizzeriadelfina.com/location/palo-alto/){:target="\_blank"} \| [Google Maps Link](https://maps.app.goo.gl/VmWcDc4pvZnjoAKU9){:target="\_blank"}
 
 ### Friday, February 28
