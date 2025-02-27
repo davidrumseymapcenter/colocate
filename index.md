@@ -69,10 +69,10 @@ Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"
 
 **9:00 AM - 10:30 AM:** Increasing Adoption and Participation
 
-Discussion on the use cases of IIIF and maps for institutions and researchers.
-
-- _Allmaps_: Applying IIIF-native tools for georeferencing.
-- _GeoBlacklight_: Expanding collections and using map data in research.
+Lightning Talks:
+* Drake - Latest at LUNA
+* Karen & Eric - Geoblacklight Admin
+* Aaron - Small Tools
 
 **10:30 AM - 11:00 AM: Morning Refreshment Break**
 
