@@ -69,11 +69,11 @@ Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"
 
 **9:30 AM - 10:00 AM:** Lightning Talks
 
-- Drake - Latest at LUNA
-- Karen & Eric - Geoblacklight Admin
-- Aaron - Small Tools
+- _Latest at Luna Imaging_
+- [_GeoBlacklight Admin: An Aardvark Workflow Tool_](https://docs.google.com/presentation/d/1atbux4k9yGL1_10O9QsDbgB4D4nKcCCMmLcc80xCkEE/edit?usp=sharing)
+- _Small Tools_
 
-Increasing Adoption and Participation
+**10:00 AM - 10:30 AM:** Increasing Adoption and Participation
 
 **10:30 AM - 11:00 AM: Morning Refreshment Break**
 
