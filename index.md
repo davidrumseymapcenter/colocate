@@ -57,7 +57,7 @@ Participants pitch session ideas, followed by group voting to determine the key 
 **Designing a User Interface for Large Map Collections** - Exploring UI/UX design for displaying large collections of maps at different scales within Allmaps.
 {: .alert .alert-dark}
 
-**A Census of the Web Mapping Universe (Tom) & Timeline-ing Open Geo Tools** - Combining sessions to map out the web mapping tools landscape, user communities, and sustainability lessons from tools that were end-of-lifed.
+**Writing Non-Technical User-Facing Documentation** - Best practices for creating accessible documentation for open geo tools targeting non-developer audiences.
 {: .alert .alert-dark}
 
 **6:00 PM - 7:30 PM:** Dinner @ [Rangoon Ruby](https://rangoonruby.com){:target="\_blank"} \| [Google Maps Link](https://maps.app.goo.gl/BsPJLwAcATgitrRt6){:target="\_blank"}
