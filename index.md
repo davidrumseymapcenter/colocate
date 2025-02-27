@@ -139,10 +139,8 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 **2:00 PM - 3:30 PM:** [Optional] Sustainability & Resourcing Workshop
 
 **Explore sustainability options for IIIF-based tools and platforms like Allmaps and GeoBlacklight**
-
-- Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
-- How do we ensure long-term support for these projects?
-- Identifying funding sources and creating a collaborative, sustainable ecosystem.{: .alert .alert-dark}
+How do we ensure long-term support for these projects? Identifying funding sources and creating a collaborative, sustainable ecosystem.
+{: .alert .alert-dark}
 
 ## Documents
 
