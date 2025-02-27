@@ -67,17 +67,17 @@ Participants pitch session ideas, followed by group voting to determine the key 
 Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"}
 {: .alert .alert-light}
 
-**9:00 AM - 10:30 AM:** Increasing Adoption and Participation
+**9:30 AM - 10:00 AM:** Lightning Talks
 
-Lightning Talks:
-* Drake - Latest at LUNA
-* Karen & Eric - Geoblacklight Admin
-* Aaron - Small Tools
+- Drake - Latest at LUNA
+- Karen & Eric - Geoblacklight Admin
+- Aaron - Small Tools
+
+Increasing Adoption and Participation
 
 **10:30 AM - 11:00 AM: Morning Refreshment Break**
 
 **11:00 AM - 12:30 PM:** Unconference Session 3
-
 
 **Integrating Allmaps in the David Rumsey Map Collection** - Discussing the conversion of 60,000+ georeferenced maps to Georeference Annotations, grouping strategies, IIIF Presentation Manifests, and Allmaps Viewer/Editor integration.
 {: .alert .alert-dark}
@@ -96,7 +96,6 @@ Utilizing Allmaps infrastructure for collection discovery, federation of annotat
 **Narrative Mapping with Allmaps**
 Using Allmaps for educational contexts and developing an open-source alternative to Storymaps.
 {: .alert .alert-dark}
-
 
 **3:15 PM - 3:45 PM: Afternoon Refreshment Break**
 
