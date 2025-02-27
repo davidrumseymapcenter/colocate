@@ -97,9 +97,6 @@ Utilizing Allmaps infrastructure for collection discovery, federation of annotat
 Using Allmaps for educational contexts and developing an open-source alternative to Storymaps.
 {: .alert .alert-dark}
 
-**Explore sustainability options for IIIF-based tools and platforms like Allmaps and GeoBlacklight**
-How do we ensure long-term support for these projects? Identifying funding sources and creating a collaborative, sustainable ecosystem.
-{: .alert .alert-dark}
 
 **3:15 PM - 3:45 PM: Afternoon Refreshment Break**
 
@@ -141,9 +138,9 @@ Open floor for final reflections, task assignments for follow-up, and next steps
 
 **2:00 PM - 3:30 PM:** [Optional] Sustainability & Resourcing Workshop
 
-- Explore sustainability options for IIIF-based tools and platforms like AllMaps and GeoBlacklight.
-- How do we ensure long-term support for these projects?
-- Identifying funding sources and creating a collaborative, sustainable ecosystem.
+**Explore sustainability options for IIIF-based tools and platforms like Allmaps and GeoBlacklight**
+How do we ensure long-term support for these projects? Identifying funding sources and creating a collaborative, sustainable ecosystem.
+{: .alert .alert-dark}
 
 ## Documents
 
