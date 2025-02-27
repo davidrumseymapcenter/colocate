@@ -71,7 +71,7 @@ Location: [David Rumsey Map Center](https://drmc.stanford.edu){:target="\_blank"
 
 - _Latest at Luna Imaging_
 - [_GeoBlacklight Admin: An Aardvark Workflow Tool_](https://docs.google.com/presentation/d/1atbux4k9yGL1_10O9QsDbgB4D4nKcCCMmLcc80xCkEE/edit?usp=sharing)
-- _Small Tools_
+- [_Small focused tools from SFO Museum_](https://github.com/sfomuseum)
 
 **10:00 AM - 10:30 AM:** Increasing Adoption and Participation
 
