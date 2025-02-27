@@ -69,24 +69,39 @@ Discussion on the use cases of IIIF and maps for institutions and researchers.
 
 **11:00 AM - 12:30 PM:** Unconference Session 3
 
-Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
+* **Integrating Allmaps in the David Rumsey Map Collection (Jules)**
+
+Discussing the conversion of 60,000+ georeferenced maps to Georeference Annotations, grouping strategies, IIIF Presentation Manifests, and Allmaps Viewer/Editor integration.
+* **A Census of the Web Mapping Universe (Tom) & Timeline-ing Open Geo Tools (Emily)**
+
+Combining sessions to map out the web mapping tools landscape, user communities, and sustainability lessons from tools that were end-of-lifed.
+
 
 **12:30 PM - 2:00 PM: Lunch Break**
 
 **2:00 PM - 3:15 PM:** Unconference Session 4 Sustainability & Resourcing Workshop
 
-Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
+* **Self-hosting, Federation & Inter-institutional Discovery (Stace)**
 
-- Explore sustainability options for IIIF-based tools and platforms like Allmaps and GeoBlacklight.
-- How do we ensure long-term support for these projects?
-- Identifying funding sources and creating a collaborative, sustainable ecosystem.
+Utilizing Allmaps infrastructure for collection discovery, federation of annotation storage, and self-hosting infrastructure components.
+* **Narrative Mapping with Allmaps (Jules)**
+
+Using Allmaps for educational contexts and developing an open-source alternative to Storymaps.
+
+- **Explore sustainability options for IIIF-based tools and platforms like Allmaps and GeoBlacklight.(Tom)**
+  - How do we ensure long-term support for these projects?
+  - Identifying funding sources and creating a collaborative, sustainable ecosystem.
 
 **3:15 PM - 3:45 PM: Afternoon Refreshment Break**
 
 **3:45 PM - 5:00 PM:** Unconference Session 5
 
-Topic(s) to be determined based on session pitches. Sessions may end with 15 minutes for groups to report out.
-
+* **Open Metadata (Kim)**
+VOTES: +++++++++ (8)
+Collaborative strategies for publishing metadata with an explicit license (e.g., CC0) and developing tools for computational access to metadata.
+* **Georeferencing Project Management Tooling (Stace)**
+VOTES: ++++++ (6)
+Developing a collaborative task manager with role-based task assignment, queue management, and gamified feedback.
 **6:00 PM - 9:00 PM:** Dinner @ [Pizzeria Delfina](https://www.pizzeriadelfina.com/location/palo-alto/){:target="\_blank"} \| [Google Maps Link](https://maps.app.goo.gl/VmWcDc4pvZnjoAKU9){:target="\_blank"}
 
 ### Friday, February 28
